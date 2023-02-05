@@ -4,10 +4,10 @@
     },
     "app": {
         "appPort": 80,
-        "appLink": "http://cdn.nicoruiz.dev",
-        "appName": "Discord CDN",
-        "appFavicon": "https://avatars.githubusercontent.com/u/77137417?v=4",
-        "webhookURL": "https://discord.com/api/webhooks/1071138758759559168/srkPe4xG-RxuKdrAuvTz8TtjUyDvzHU6c628FophxN_Yl1Ts0cWGDAJ_b-fF1tILtWS7"
+        "appLink": "http://cdn.nightmaresmp.fun",
+        "appName": "TNS CDN",
+        "appFavicon": "https://cdn.discordapp.com/icons/969830189523664926/e35b97b793c8887504636796f6f244c7.png?size=1024",
+        "webhookURL": "https://discord.com/api/webhooks/1071742200255352914/gsrm00fJlIxiy7xBgBPjrTG-a2ti3_3dAOQpK0qQkKx60-yKF26BUc2kphw_r1MIS4Bi"
     },
     "social": {
         "discord": "https://discord.gg/XraBC45vs2",
