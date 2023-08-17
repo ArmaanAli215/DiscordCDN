@@ -4,7 +4,7 @@
     },
     "app": {
         "appPort": 80,
-        "appLink": "https://nightmarecdn.hop.sh",
+        "appLink": "https://cdn-nightmare.ddns.net",
         "appName": "TNS CDN",
         "appFavicon": "https://media.discordapp.net/attachments/1088713318237224970/1092712610065027133/tns_logo.png",
         "webhookURL": "https://discord.com/api/webhooks/1092712856480387173/h_Fki24IU48xTE5wb-TfWG3qkQrC_Ooa4qzB4xVwnXFIyNi3fdxmFaSRZ5KaigB9R5IC"
